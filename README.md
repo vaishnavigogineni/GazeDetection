@@ -29,6 +29,9 @@ The Gaze Tracking and Crowd Analysis project is designed to provide comprehensiv
 ## OUTPUT AFTER EXAMPLE VIDEO STREAM 
 <img width="828" alt="image" src="https://github.com/vaishnavigogineni/GazeDetection/assets/94545751/059dad8d-86e0-4a0d-90a9-66ae08fb24a4">
 
+## ACCESS LINK FOR THE .DAT FILE
+https://drive.google.com/file/d/1yAdGwGcaFuFdfxAd_obRxOZDxadzHpLA/view?usp=drivesdk
+
 ## Getting Started
 
 Clone the repository to your local machine.
