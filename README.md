@@ -32,6 +32,9 @@ The Gaze Tracking and Crowd Analysis project is designed to provide comprehensiv
 ## ACCESS LINK FOR THE .DAT FILE
 https://drive.google.com/file/d/1yAdGwGcaFuFdfxAd_obRxOZDxadzHpLA/view?usp=drivesdk
 
+This has been integrated into a online AI interview co-pilot and results can be seen as:
+<img width="853" alt="image" src="https://github.com/vaishnavigogineni/GazeDetection/assets/94545751/505541f6-8fab-4206-82cd-40827797a9ec">
+
 ## Getting Started
 
 Clone the repository to your local machine.
